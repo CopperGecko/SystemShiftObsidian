@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Weapons.md",
+                "file": "Items/Armor/Armor Augments/Atom Augments/Armor Atom 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
+              "title": "Armor Atom 4"
             }
           }
         ]
@@ -184,21 +184,24 @@
   },
   "active": "f6838915bc5b1e93",
   "lastOpenFiles": [
-    "Items/Armor/Armors.md",
-    "Items/Weapons/Weapons.md",
-    "Player Information/Energy Orbs.md",
-    "Items/Armor/Armor Augments/Atom Augments/Armor Atom 4.md",
+    "Items/Armor/Armor Augments/Atom Augments/Armor Atom 3.md",
     "Items/Armor/Armor Augments/Atom Augments/Armor Atom 2.md",
     "Items/Armor/Armor Augments/Atom Augments/Armor Atom 1.md",
-    "Items/Armor/Armor Augments/Armor Augment.md",
-    "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 6.md",
+    "Items/Armor/Armor Augments/Fusion Augments/Crescendo.md",
     "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 5.md",
-    "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 3.md",
     "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 4.md",
-    "Player Information/Abilitites/Gravitational/Keywords/Singularity.md",
-    "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 2.md",
+    "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 3.md",
     "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 1.md",
-    "Items/Armor/Armor Augments/Atom Augments/Armor Atom 3.md",
+    "Items/Armor/Armor Augments/Fusion Augments/Armor Fusion 2.md",
+    "Items/Armor/Armor Augments/Singularity Augments/Echo Chamber.md",
+    "Items/Armor/Armor Augments/Singularity Augments/Heat Sink.md",
+    "Items/Armor/Armor Augments/Singularity Augments/Elastic Cascade.md",
+    "Items/Weapons/Weapons.md",
+    "Items/Armor/Armors.md",
+    "Player Information/Energy Orbs.md",
+    "Items/Armor/Armor Augments/Atom Augments/Armor Atom 4.md",
+    "Items/Armor/Armor Augments/Armor Augment.md",
+    "Player Information/Abilitites/Gravitational/Keywords/Singularity.md",
     "Items/Armor/Armor Details.md",
     "Items/Weapons/Weapon Augments/Weapon Augment.md",
     "Items/Armor/Armor Augments/Atom Augments/Test Atom 1.md",
@@ -207,9 +210,6 @@
     "Items/Weapons/Weapon Augments/Fusion Augments/Weapon Fusion 5.md",
     "Player Information/Abilitites/Acoustic/Keywords/Resonance.md",
     "Player Information/Abilitites/Acoustic/Keywords/Amplified.md",
-    "Items/Weapons/Weapon Augments/Fusion Augments/Weapon Fusion 4.md",
-    "Items/Weapons/Weapon Augments/Fusion Augments/Weapon Fusion 3.md",
-    "Items/Weapons/Weapon Augments/Fusion Augments/Weapon Fusion 2.md",
     "Items/Weapons/Weapon Augments",
     "Items/Weapons/Weapon Augments/Singularity Augments",
     "Items/Weapons/Weapon Augments/Fusion Augments",

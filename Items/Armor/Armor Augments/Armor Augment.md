@@ -23,7 +23,7 @@ Fusion Augments:
 - [[Armor Fusion 3]]
 - [[Armor Fusion 4]]
 - [[Armor Fusion 5]]
-- [[Armor Fusion 6]]
+- [[Crescendo]]
 
 Atom Augments:
 - [[Armor Atom 1]]
