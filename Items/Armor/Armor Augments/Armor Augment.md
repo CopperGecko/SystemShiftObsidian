@@ -18,15 +18,15 @@ Singularity Augments:
 - [[Heat Sink]]
 
 Fusion Augments:
-- [[Armor Fusion 1]]
-- [[Armor Fusion 2]]
-- [[Armor Fusion 3]]
-- [[Armor Fusion 4]]
-- [[Armor Fusion 5]]
+- [[Battle Hardened]]
+- [[Charitable]]
+- [[Orbital Ward]]
+- [[Thermal Recovery]]
+- [[Tension]]
 - [[Crescendo]]
 
 Atom Augments:
-- [[Armor Atom 1]]
-- [[Armor Atom 2]]
-- [[Armor Atom 3]]
-- [[Armor Atom 4]]
+- [[Steady Stride]]
+- [[Quick Hands]]
+- [[Last Legs]]
+- [[Refresher]]

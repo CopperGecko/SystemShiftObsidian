@@ -1,7 +1,7 @@
 The Gravity often associated with potential energy.
 
 Abilities:
-- [[Player Information/Abilitites/Gravitational/Abilities/Event Horizon]]
+- [[Down Well]]
 - [[Kepler Void]]
 - [[Grav-Shift]]
 

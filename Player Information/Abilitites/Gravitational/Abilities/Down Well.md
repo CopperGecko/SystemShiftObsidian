@@ -1,4 +1,4 @@
-Base (Event Horizon):
+Base (Down Well):
 - A heavy downward overhead strike that slams the ground, creating a micro-void that inflicts [[Collapse]] on all enemies within a 3-meter radius. 
 - -15 Energy
 

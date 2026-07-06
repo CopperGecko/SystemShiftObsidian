@@ -1,0 +1,3 @@
+Each piece of gear (weapons and armor) comes with a set of possible augments. these pools are fixed to the gear and may change over time as the game updates. whenever a new weapon is generated, it chooses a random augment from each set of augments (primary and secondary). later on i can have more than 1 be selected if i want. this random augment becomes enhanced and will have improved qualities that aren't accessible otherwise.
+
+You can equip 2 primary augments and 2 secondary augments. primary augments consist of Singularity and Fusion Augments, while secondary augments are just Atom. You can equip only 1 singularity augment at a time (1 weapon and 1 armor). 

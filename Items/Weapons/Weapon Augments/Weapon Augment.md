@@ -18,15 +18,15 @@ Singularity Augments:
 - [[Echo Vector]]
 
 Fusion Augments:
-- [[Weapon Fusion 1]]
-- [[Weapon Fusion 2]]
-- [[Weapon Fusion 3]]
-- [[Weapon Fusion 4]]
-- [[Weapon Fusion 5]]
-- [[Weapon Fusion 6]]
+- [[Rampage]]
+- [[Clean Sweep]]
+- [[Void Fed]]
+- [[Meltdown]]
+- [[Echo Strike]]
+- [[Overdrive]]
 
 Atom Augments:
-- [[Weapon Atom 1]]
-- [[Weapon Atom 2]]
-- [[Weapon Atom 3]]
-- [[Weapon Atom 4]]
+- [[Hot Streak]]
+- [[Lucky Shot]]
+- [[Swift Handed]]
+- [[Giant Killer]]

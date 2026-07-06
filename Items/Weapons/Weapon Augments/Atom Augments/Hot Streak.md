@@ -1,0 +1,1 @@
+Reloading within 2 seconds of a kill grants increased damage until your next kill.
