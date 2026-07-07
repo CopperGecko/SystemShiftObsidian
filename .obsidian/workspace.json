@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Weapon Augments/Atom Augments/Hot Streak.md",
+                "file": "World Building/Main Premise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hot Streak"
+              "title": "Main Premise"
             }
           }
         ]
@@ -185,6 +185,10 @@
   "active": "f6838915bc5b1e93",
   "lastOpenFiles": [
     "Player Information/Energy Orbs.md",
+    "Player Information/Augments.md",
+    "World Building/Main Premise.md",
+    "Items/Weapons/Weapon Augments/Atom Augments/Hot Streak.md",
+    "World Building",
     "Player Information/Abilitites/Elastic/Abilities/Snap Field.md",
     "Player Information/Abilitites/Gravitational/Abilities/Down Well.md",
     "Items/Armor/Armor Augments/Armor Augment.md",
@@ -197,7 +201,6 @@
     "Items/Weapons/Weapon Augments/Fusion Augments/Clean Sweep.md",
     "Items/Weapons/Weapon Augments/Fusion Augments/Rampage.md",
     "Items/Weapons/Weapon Augments/Atom Augments/Giant Killer.md",
-    "Items/Weapons/Weapon Augments/Atom Augments/Hot Streak.md",
     "Items/Weapons/Weapon Augments/Atom Augments/Swift Handed.md",
     "Items/Weapons/Weapon Augments/Atom Augments/Lucky Shot.md",
     "Items/Armor/Armor Augments/Fusion Augments/Tension.md",
@@ -208,8 +211,6 @@
     "Items/Armor/Armor Augments/Fusion Augments/Battle Hardened.md",
     "Items/Armor/Armor Augments/Fusion Augments/Crescendo.md",
     "Items/Armor/Armor Augments/Atom Augments/Quick Hands.md",
-    "Items/Armor/Armor Augments/Atom Augments/Last Legs.md",
-    "Items/Armor/Armor Augments/Atom Augments/Steady Stride.md",
     "Items/Weapons/Weapon Augments",
     "Items/Weapons/Weapon Augments/Singularity Augments",
     "Items/Weapons/Weapon Augments/Fusion Augments",
@@ -219,7 +220,6 @@
     "Items/Armor/Armor Augments/Singularity Augments",
     "Items/Armor/Armor Augments",
     "Player Information/Abilitites/Elastic/Keywords",
-    "Player Information/Abilitites/Elastic/Abilities",
     "Untitled.canvas"
   ]
 }
